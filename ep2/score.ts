@@ -9,6 +9,8 @@ function grade(homework : number, midterm : number, final : number){
         return 'เกรด C'
     } else if (score < 80){
         return 'เกรด B'
-    }
+    } else (score > 80)
+        return 'เกรด A'
+    
 }
-console.log(grade(20,20,20))
+console.log(grade(60,30,10))
