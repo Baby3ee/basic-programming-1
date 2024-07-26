@@ -9,7 +9,7 @@ function grade(homework : number, midterm : number, final : number){
         return 'เกรด C'
     } else if (score < 80){
         return 'เกรด B'
-    } else (score > 80)
+    } else (score >= 80)
         return 'เกรด A'
     
 }
