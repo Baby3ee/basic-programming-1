@@ -93,7 +93,7 @@ console.log(str.length)
 //console.log(str.charAt(str.length - 1)) เป็นการที่นับตัวอักษรย้อนกลับจากหลังมาหน้า
 
 
-const string1: string = 'Chomphunut'
+const string1: string = 'Chomphunut Phaengya'
 
 //console.log(str.indexOf('h')) เป็นการหาที่อยู่ตัวอักษร
 //console.log(str.toLocaleUpperCase()) ตัวอักษรใหญ่ทุกตัว
