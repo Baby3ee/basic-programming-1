@@ -45,3 +45,7 @@
 // console.log('เรียง ฮ-ก :', animalArray.reverse()) "เรียง ฮ-ก :",  ["ยีราฟ", "ปลา", "นก", "คาปิบาร่า"] 
 
 // console.log('slice 0-2 :' , animalArray.slice(0,2)) "slice 0-2 :",  ["ยีราฟ", "ปลา"] 
+
+// const fruits = ["Banana","Orange","Apple","Mango"]
+// console.log('เรียง A-Z :' , fruits.sort()) คำตอบ "เรียง A-Z :",  ["Apple", "Banana", "Mango", "Orange"]
+// console.log('เรียง Z-A :' , fruits.reverse()) คำตอบ "เรียง Z-A :",  ["Orange", "Mango", "Banana", "Apple"] 
